@@ -4,7 +4,7 @@ some widget for ODOO
 ## Just Widget Colorpicker 
 
 ## just_workflow_bpmn
-![bpmn](https://github.com/justsxl/just_ODOO_widget/blob/main/static/demo_workflow.png)
+![bpmn](./static/demo_workflow.png)
 
 ## just_workflow_engine
 
