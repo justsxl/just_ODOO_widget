@@ -5,7 +5,7 @@ some widget for ODOO
 [ODOO BPMN Workflow DEMO Video](https://pan.baidu.com/s/1J72Wr5nrYZ8zhtNINZkWjQ?pwd=tpj1)
 
 ## Just Widget Colorpicker 
-![workflow bpmn](./static/just_Widget_ColorPicker.png)
+![workflow bpmn](./static/just_Widget_Colorpicker.png)
 
 ## just_workflow_bpmn
 -Based on BPMN2 0's graphical custom workflow module assists in generating workflow model definitions, flexible process nodes and action settings, and complements the short board of odoo's lack of workflow.
