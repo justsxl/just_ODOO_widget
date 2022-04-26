@@ -2,7 +2,8 @@
 some widget for ODOO
 
 ## Demo and Video
-[ODOO BPMN Workflow DEMO Video](https://pan.baidu.com/s/1J72Wr5nrYZ8zhtNINZkWjQ?pwd=tpj1)
+[ODOO BPMN Workflow DEMO Video Chinese](https://pan.baidu.com/s/1J72Wr5nrYZ8zhtNINZkWjQ?pwd=tpj1)
+[ODOO BPMN Workflow DEMO Video English](https://pan.baidu.com/s/1V34N44YOBHwF1xpfWAAj8w?pwd=jqjs)
 
 ## Just Widget Colorpicker 
 ![workflow bpmn](./static/just_Widget_Colorpicker.png)
